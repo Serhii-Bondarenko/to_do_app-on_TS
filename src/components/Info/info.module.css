@@ -1,0 +1,9 @@
+hr{
+    height: 2px;
+    background-color: cornflowerblue;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-around;
+}
